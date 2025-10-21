@@ -27,3 +27,5 @@ CS50’s SQL course teaches the fundamentals of **structured query language (SQL
 
 * **Platform:** [CS50 Official](https://cs50.harvard.edu/sql/)
 * **Certificate:** [View Certificate](https://cs50.harvard.edu/certificates/9f9a5383-272f-4a10-b332-0dd6795cf278)
+
+* ![CS50 SQL Certificate](https://cs50.harvard.edu/certificates/9f9a5383-272f-4a10-b332-0dd6795cf278)
